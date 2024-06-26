@@ -42,7 +42,7 @@ const Home = () => {
   };
 
   return (
-    <div className="flex flex-col items-center bg-blue-100 p-5">
+    <div className="flex flex-col items-center bg-blue-100 p-5 overflow-hidden">
       <div className="w-full h-full object-cover mb-5 relative">
         <div
           ref={carouselRef}
