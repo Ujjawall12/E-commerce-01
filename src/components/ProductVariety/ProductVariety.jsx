@@ -285,12 +285,7 @@ const ProductVariety = () => {
        >
       +
        </button>
-       <button
-      onClick={() => addToCart(product)}
-      className="py-1 px-3 bg-indigo-600 text-white rounded hover:bg-indigo-700 transition duration-300"
-       >
-      Add
-       </button>
+       
      </div>
 
       </div>
